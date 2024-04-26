@@ -1,0 +1,5 @@
+ip: "*"
+ports: "80,2000-2001,4000-4001,9999"
+tcp: true
+udp: false
+certfile: ""
