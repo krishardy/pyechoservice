@@ -5,7 +5,8 @@ Useful for debugging the source IP and all headers received by a client.
 # How to Use
 
 ```
-$ git clone ...
+$ git clone https://github.com/krishardy/pyechoservice.git
+$ cd pyechoservice
 $ pip install -r requirements.txt
 $ cp config.yml.sample config.yml
 (edit config.yml)
